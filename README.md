@@ -1,7 +1,23 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Projekt OKPO
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Praca niniejsza została wykonana na zaliczenie przedmiotu **Ekonomia behawioralna** prowadzonego przez dr Anitę Zarzycką w ramach studiów magisterskich na Uczelni Łazarskiego w Warszawie.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Akronim OKPO rozwija się jako _Oceniamy książki po okładce_. Z badania wynika, że książki z żółtymi okładkami oceniane są przez użytkowników serwisu Goodreads najlepiej, a z pomarańczowymi najgorzej.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Szczegóły badania
+
+W pracy wykorzystano notatniki Jupyter. Poniżej znajdują się linki do notatników przedstawiających poszczególne części badania.
+
+1. [Procedura przygotowania danych](notebooks/data_preparation.ipynb)
+2. [Analiza i wnioski](notebooks/analysis.ipynb)
+
+## Autorzy
+
+W kolejności alfabetycznej:
+- Paweł Abramczyk (36931@lazarski.pl)
+- Agata Antoszkiewicz (46261@lazarski.pl)
+- Patryk Łodyga (36290@lazarski.pl)
+- Piotr Łomacki (50862@lazarski.pl)
+- Yana Moiseienko (49743@lazarski.pl)
+
+Uczelnia Łazarskiego, Warszawa 2024
